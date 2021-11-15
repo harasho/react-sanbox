@@ -1,2 +1,2 @@
-# react-sanbox
+# react-sandbox
 Created with CodeSandbox
